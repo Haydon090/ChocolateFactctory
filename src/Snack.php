@@ -1,5 +1,6 @@
 <?php
-class Snack
+namespace Vovan\Chocolatefactory;
+abstract class Snack
 {
   public string $name;
   public string $chocolate;

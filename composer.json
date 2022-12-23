@@ -11,5 +11,11 @@
             "name": "Haydon090"
         }
     ],
-    "require": {}
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Haydon090/ChocolateFactctory"
+        }
+    ]
+  
 }
